@@ -1,0 +1,1 @@
+DELETE FROM videos WHERE title = 'video1' AND synopsis = 'test1' AND director = 'director1'
