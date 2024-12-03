@@ -66,4 +66,3 @@ To connect to your DB, you should replace PlaceHolders in .env and application.p
 - Update video info by id -> api/videos/{id} - Put
 - Search videos by param -> api/videos/search?titles= or api/videos/search?directors= or api/videos/search?titles=&directors= - Get
 - Play video by id -> api/videos/{id}/play - Get
-- 
